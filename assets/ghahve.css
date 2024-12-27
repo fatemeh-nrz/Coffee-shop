@@ -1,0 +1,36 @@
+ div{
+    border: 2px solid lightgoldenrodyellow;
+    width: 400px; 
+    height: 700px;
+     margin-left: auto;
+      margin-right: auto;
+      margin-top: 100px;
+   background-color: rgb(247, 223, 158);
+  
+}
+ p{
+    font-size: 15px;
+  text-align: left;
+ 
+ 
+
+
+}
+h1{
+   text-align: center;
+   font-weight: bolder;
+}
+h2{
+   text-align: center;
+} 
+h6{
+   text-align: center;
+}
+
+ 
+#finish{
+   text-align: center;
+}
+u{
+   text-align: center;
+}
